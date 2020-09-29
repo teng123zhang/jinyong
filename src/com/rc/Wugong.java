@@ -7,6 +7,9 @@ public class Wugong {
 		System.out.println("22222");
 		System.out.println("33333");
 		System.out.println("AAAAA");
+		System.out.println("BBBBB");
+		
+		
 	}
 
 }
